@@ -21,7 +21,7 @@ Built using HTML, CSS, and vanilla JavaScript to explore image data processing i
 
 ## Live Page
 
-![View Live Page](https://jsooonx.github.io/image-palette-extractor/)
+https://jsooonx.github.io/image-palette-extractor/
 
 ## Technologies
 - HTML
