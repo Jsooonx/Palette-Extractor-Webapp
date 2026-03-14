@@ -1,4 +1,4 @@
-# Image Color Palette Extraction Tool
+# Image Palette Extraction Tool
 
 A simple web application that extracts dominant color palettes from user-uploaded images.  
 Built using HTML, CSS, and vanilla JavaScript to explore image data processing in the browser.
